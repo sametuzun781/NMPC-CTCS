@@ -1,4 +1,4 @@
-# Successive Convexification for Nonlinear Model Predictive Control with Continuous-Time Constraint Satisfaction
+### Successive Convexification for Nonlinear Model Predictive Control with Continuous-Time Constraint Satisfaction
 
 #### Node-only
 ![](sim/node_animation.gif)
