@@ -3,7 +3,7 @@
 #### Node-only
 ![](sim/node_animation.gif)
 
-#### Continous-time Constraint Satisfaction
+#### Continuous-time Constraint Satisfaction
 ![](sim/ctcs_animation.gif)
 
 #### Comparison
